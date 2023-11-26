@@ -1,0 +1,39 @@
+
+BODY { background: #2B60DE; 
+              margin: 20px 20px 20px 20px; }
+
+H1 { color: yellow;
+        font-size: 38px;
+        text-decoration: underline;
+        text-align: center; }
+
+H2 { color: yellow;
+        font-family: Times New Roman,Arial,Verdana; }
+
+OL { color: yellow;
+        font-size: 24px; }
+
+OL.Essentials { color: #F9A7B0; }
+
+UL { color: lime;
+        font-size: 24px; }
+
+UL.Dont_Carry { color: white; }
+
+LI.Heading { color: yellow;
+                     background: #F88158; 
+                     padding-left: 10px;
+                     font-size: 21px; }
+
+IMG { height: 140px;
+          width: 200px;
+          border: 4px solid gold; }
+
+IMG.S { height: 160px;
+                 width: 170px; }
+
+P { color: orange;
+      font-size: 25px; }
+
+A { font-size: 25px;
+      font-style: italic; }

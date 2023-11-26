@@ -1,0 +1,39 @@
+
+BODY { margin: 20px;
+              background: yellow; }
+
+TABLE,TD { border: 4px solid #FFA62F;
+                     color: white;
+                     background: #FFA62F; }
+
+FONT { font-size: 2em;
+             font-weight: bold;
+             margin: 5px 320px 5px 15px; }
+
+FONT.Days { margin: 5px; }
+
+IMG { height: 30px;
+          width: 30px;
+          vertical-align: middle; }
+
+IMG.Icon { margin-left: 15px;
+                  height: 30px;
+                  width: 30px;
+                  vertical-align: middle; }
+
+IMG.Main { height: 450px;
+                   width: 700px;
+                   margin-left: 0px; }
+
+B { color: blue;
+      font-family: San-Serif,Arial,Verdana; }
+
+H3 { color: white;
+        font-size: 25px;
+        background: #FFA62F;
+        padding-left: 10px; }
+
+P { font-size: 25px; }
+
+P.Link { color: blue;
+             font-style: italic; }

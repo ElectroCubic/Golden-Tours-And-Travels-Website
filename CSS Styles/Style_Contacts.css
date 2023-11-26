@@ -1,0 +1,25 @@
+
+BODY { background: #FF403F;
+             margin: 20px 20px 20px 20px; }
+
+H1 { color: lime;
+        background: blue;
+        font-size: 50px;
+        padding-left: 20px;
+        padding-bottom: 8px; 
+        text-decoration: underline; }
+
+H2 { color: cyan;
+        font-size: 27px;
+        padding-left: 20px; }
+
+OL { color: yellow; 
+        font-size: 30px; }
+
+P { color: yellow;
+     font-size: 25px; }
+
+FONT { color: white; }
+
+A { font-size: 28px;
+      font-style: italic; }
